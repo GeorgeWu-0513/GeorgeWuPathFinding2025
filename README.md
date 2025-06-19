@@ -12,4 +12,4 @@ o Both the starting position and target position of a Battle Unit is randomly ge
 3. Percentage of fields that are Elevated Terrain on the battlefiled map.
 
 Output of the Algorithm:
-• A list of positions for the batle unit to travel from its starting position to the target position on the battlefield map.
+1. A list of positions for the batle unit to travel from its starting position to the target position on the battlefield map.
